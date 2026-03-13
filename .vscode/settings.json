@@ -1,3 +1,3 @@
 {
-    "dotnet.defaultSolution": "WalletService.slnx"
+    "dotnet.defaultSolution": "WalletApi.slnx"
 }

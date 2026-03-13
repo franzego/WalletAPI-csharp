@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "X/yf2gb3NlU=",
+  "success": true,
+  "projectFilePath": "/home/franz/csharpPaymentGateway/WalletApi/WalletApi.csproj",
+  "expectedPackageFiles": [
+    "/home/franz/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/10.0.5/microsoft.aspnetcore.identity.entityframeworkcore.10.0.5.nupkg.sha512",
+    "/home/franz/.nuget/packages/microsoft.entityframeworkcore/10.0.5/microsoft.entityframeworkcore.10.0.5.nupkg.sha512",
+    "/home/franz/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.5/microsoft.entityframeworkcore.abstractions.10.0.5.nupkg.sha512",
+    "/home/franz/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.5/microsoft.entityframeworkcore.analyzers.10.0.5.nupkg.sha512",
+    "/home/franz/.nuget/packages/microsoft.entityframeworkcore.relational/10.0.5/microsoft.entityframeworkcore.relational.10.0.5.nupkg.sha512",
+    "/home/franz/.nuget/packages/npgsql/10.0.2/npgsql.10.0.2.nupkg.sha512",
+    "/home/franz/.nuget/packages/npgsql.entityframeworkcore.postgresql/10.0.1/npgsql.entityframeworkcore.postgresql.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

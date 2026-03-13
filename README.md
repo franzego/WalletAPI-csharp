@@ -1,1 +1,0 @@
-# WalletAPI-csharp
