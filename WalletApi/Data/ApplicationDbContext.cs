@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using WalletApi.Entities;
 // using TechTreeWebApp.Entities;
 
 namespace WalletApi.Data
@@ -22,5 +23,7 @@ namespace WalletApi.Data
         : base(options)
         {
         }
+        public DbSet<Transaction> Transactions {get; set;}
+        public DbSet<Wallet> Wallets {get; set;}
     }
 }
